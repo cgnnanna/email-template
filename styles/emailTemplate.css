@@ -28,7 +28,10 @@ body {
 
 .email-content-wrapper {
     width: 100%;
+}
+.content-box{
     position: relative;
+    width: 100%;
 }
 
 #orange-box {
@@ -42,7 +45,7 @@ body {
     max-width: 35%;
     position: absolute;
     top: 50%;
-    left: 30%;
+    left: 32%;
 }
 
 .welcome-wrapper-heading {
@@ -81,4 +84,20 @@ body {
 }
 .texts-wrapper{
     margin: 20px 0;
+}
+
+.help-box{
+    background-color: #feedd1;
+    width: 35%;
+    padding: 20px 0;
+    margin: 28% auto 0 auto;
+    text-align: center;
+}
+.help-box-heading{
+    color: #1a1a1b;
+    font-size: 16px;
+}
+.help-box-link{
+    color: #feae4e;
+    font-size: 16px;
 }
