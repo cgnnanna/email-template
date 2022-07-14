@@ -29,7 +29,8 @@ body {
 .email-content-wrapper {
     width: 100%;
 }
-.content-box{
+
+.content-box {
     position: relative;
     width: 100%;
 }
@@ -82,46 +83,62 @@ body {
     margin: 20px 0;
     display: block;
 }
-.texts-wrapper{
+
+.texts-wrapper {
     margin: 20px 0;
 }
 
-.help-box{
+.help-box {
     background-color: #feedd1;
     width: 35%;
     padding: 20px 0;
     margin: 28% auto 0 auto;
     text-align: center;
 }
-.help-box-heading{
+
+.help-box-heading {
     color: #1a1a1b;
     font-size: 16px;
 }
-.help-box-link{
+
+.help-box-link {
     color: #feae4e;
     font-size: 16px;
 }
-.email-details-wrapper{
+
+.email-details-wrapper {
     display: flex;
     flex-direction: column;
     max-width: 50%;
     margin: 0 auto;
     padding: 40px 0px 40px 140px;
 }
-.email-details-links-box{
+
+.email-details-links-box {
     display: flex;
 }
-.email-details-link{
+
+.email-details-link {
     color: #363837;
     margin: 0px 10px 20px 5px;
     font-size: 14px;
     font-weight: 600;
 }
-.email-details-texts-box{
-    margin-bottom: 10px;
+
+.email-details-texts-box {
+    margin-bottom: 20px;
 }
-.email-details-text{
+
+.email-details-text {
     line-height: 1.5em;
     color: #8c8e8d;
     font-size: 14px;
+}
+
+.email-template-footer {
+    padding: 10px 0px 20px;
+}
+
+#footer-logo-wrapper {
+    text-align: center;
 }
