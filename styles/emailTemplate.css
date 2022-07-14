@@ -101,3 +101,27 @@ body {
     color: #feae4e;
     font-size: 16px;
 }
+.email-details-wrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 40px 0px 40px 140px;
+}
+.email-details-links-box{
+    display: flex;
+}
+.email-details-link{
+    color: #363837;
+    margin: 0px 10px 20px 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.email-details-texts-box{
+    margin-bottom: 10px;
+}
+.email-details-text{
+    line-height: 1.5em;
+    color: #8c8e8d;
+    font-size: 14px;
+}
