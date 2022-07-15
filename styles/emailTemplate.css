@@ -76,6 +76,7 @@ body {
     text-align: center;
     border: 0;
     padding: 15px 40px;
+    cursor: pointer;
 }
 
 .email-link {

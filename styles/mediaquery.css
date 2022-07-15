@@ -1,0 +1,303 @@
+@media only screen and (max-width: 392px) {
+    .header-text {
+        font-size: 12px;
+    }
+
+    .welcome-wrapper {
+        max-width: 100%;
+        padding: 20px 0 5px 10px;
+        ;
+        top: 20%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 20px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 10px;
+    }
+
+    .confirm-btn-wrapper {
+        margin: 10px 0;
+    }
+
+    .confirm-btn {
+        font-size: 10px;
+    }
+
+    .email-link {
+        font-size: 10px;
+    }
+
+    .help-box {
+        width: 80%;
+        margin: 70% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 12px;
+    }
+
+    .email-details-wrapper {
+        max-width: 100%;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 487px) {
+    .header-text {
+        font-size: 12px;
+    }
+
+    .welcome-wrapper {
+        max-width: 100%;
+        padding: 20px 0 5px 10px;
+        ;
+        top: 30%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 25px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 10px;
+    }
+
+    .confirm-btn-wrapper {
+        margin: 20px 0;
+    }
+
+    .confirm-btn {
+        font-size: 10px;
+    }
+
+    .email-link {
+        font-size: 10px;
+    }
+
+    .help-box {
+        width: 80%;
+        margin: 70% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 12px;
+    }
+
+    .email-details-wrapper {
+        max-width: 100%;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .header-text {
+        font-size: 12px;
+    }
+
+    .welcome-wrapper {
+        max-width: 80%;
+        left: 10%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 25px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 14px;
+    }
+
+    .confirm-btn {
+        font-size: 14px;
+    }
+
+    .email-link {
+        font-size: 14px;
+    }
+
+    .help-box {
+        width: 80%;
+        margin: 70% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 14px;
+    }
+
+    .email-details-wrapper {
+        max-width: 80%;
+        padding: 40px 0px 40px 40px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+
+    .header-text {
+        font-size: 14px;
+    }
+
+    .welcome-wrapper {
+        max-width: 70%;
+        left: 15%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 35px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 16px;
+    }
+
+    .confirm-btn-wrapper {
+        margin: 15px 0;
+    }
+
+    .confirm-btn {
+        font-size: 16px;
+    }
+
+    .email-link {
+        font-size: 16px;
+    }
+
+    .help-box {
+        width: 70%;
+        margin: 60% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 16px;
+    }
+
+    .email-details-wrapper {
+        max-width: 70%;
+        padding: 40px 0px 40px 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .header-text {
+        font-size: 16px;
+    }
+
+    .welcome-wrapper {
+        max-width: 50%;
+        left: 25%;
+        top: 40%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 35px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 16px;
+    }
+
+    .confirm-btn-wrapper {
+        margin: 20px 0;
+    }
+
+    .confirm-btn {
+        font-size: 16px;
+    }
+
+    .help-box {
+        width: 50%;
+        margin: 50% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 16px;
+    }
+
+    .email-details-wrapper {
+        max-width: 50%;
+        padding: 40px 0px 40px 40px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .header-text {
+        font-size: 16px;
+    }
+
+    .welcome-wrapper {
+        max-width: 40%;
+        left: 30%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 35px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 16px;
+    }
+
+    .confirm-btn {
+        font-size: 16px;
+    }
+
+    .help-box {
+        width: 40%;
+        margin: 40% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 16px;
+    }
+
+    .email-details-wrapper {
+        max-width: 50%;
+        padding: 60px 0px 40px 80px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .header-text {
+        font-size: 16px;
+    }
+
+    .welcome-wrapper {
+        max-width: 35%;
+        left: 32%;
+    }
+
+    .welcome-wrapper-heading {
+        font-size: 35px;
+    }
+
+    .welcome-wrapper-text {
+        font-size: 16px;
+    }
+
+    .confirm-btn {
+        font-size: 16px;
+    }
+
+    .help-box {
+        width: 35%;
+        margin: 25% auto 0 auto;
+    }
+
+    .help-box-heading,
+    .help-box-link {
+        font-size: 16px;
+    }
+
+    .email-details-wrapper {
+        max-width: 50%;
+        padding: 40px 0px 40px 140px;
+    }
+}
